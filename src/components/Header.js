@@ -18,10 +18,10 @@ function Header(props) {
         <Link to="/">
           <div>HOME</div>
         </Link>
-        <Link to="/about">
+        <Link to="/About">
           <div>ABOUT</div>
         </Link>
-        <Link to="/projects">
+        <Link to="/Projects">
           <div>PROJECTS</div>
         </Link>
       </nav>
