@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-
+import "../index.css";
 function Header(props) {
   //inline style for the nav tag
   const navStyle = {
